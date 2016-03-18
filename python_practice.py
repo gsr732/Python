@@ -1,5 +1,5 @@
 '''
-This program will promput user for their name
+This program will prompt user for their name
 ask age and calculate in how many years 
 they will be 100
 '''
