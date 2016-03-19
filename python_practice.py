@@ -2,6 +2,8 @@
 This program will prompt user for their name
 ask age and calculate in how many years 
 they will be 100
+Author:  GA Sauer
+Date:  3/18/16
 '''
 
 from datetime import date
