@@ -1,2 +1,2 @@
 # Python
-Automating the boring stuff with Python
+Sample Python scripts
