@@ -2,6 +2,8 @@
 #Author:  GA Sauer
 #Date:  3/20/16
 
+import os
+
 idsList=["B3","\nB4","\nB5","\nB6"]
 
 
