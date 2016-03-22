@@ -2,7 +2,7 @@
 This script will extract archive multiple files in a directory .
 In this case a .gz file
 
-auther:  GA Sauer
+author:  GA Sauer
 date:    March 22, 2016
 """
 
