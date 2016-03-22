@@ -2,7 +2,7 @@
 This script will download connect to a ftp site
 and download all files in a certain directory
 
-auther:  GA Sauer
+author:  GA Sauer
 date:    March 22, 2016
 """
 
