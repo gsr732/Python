@@ -53,6 +53,8 @@ for curType in currency:
 if os.path.isfile(fileName.split('.')[0] + "_" + currency[0] + "_" + currency[1] + ".csv"):
     os.remove(fileName.split('.')[0] + "_" + currency[0] + "_" + currency[1] + ".csv")
     dataFrame1.to_csv(fileName.split('.')[0] + "_" + currency[0] + "_" + currency[1] + ".csv")
+else:
+     dataFrame1.to_csv(fileName.split('.')[0] + "_" + currency[0] + "_" + currency[1] + ".csv")
 
 
 
